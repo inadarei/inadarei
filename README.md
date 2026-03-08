@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @inadarei
-- 👀 I’m interested in distributed programming, microservice architecture, and human aspects of software engineering.
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in AI/ML/LLM/GenAI, distributed programming, and human aspects of software engineering.
+- 🌱 I’m currently becoming best friends with Claude and building a lot of interesting things
